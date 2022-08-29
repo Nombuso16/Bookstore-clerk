@@ -1,2 +1,2 @@
 # Bookstore-clerk
-Here we have a program for a bookstore
+Here we have a program for a bookstore clerk
